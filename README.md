@@ -9,4 +9,4 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 
 | Başlıq | Müəllif | Nəşr Tarixi | Kateqoriya |
 | ----- | ------ | --------------- | -------- |
-| [Article Title 1](Article_Link_1) | Author Name 1 | YYYY-MM-DD | Network Security |
+| [Məlumatların Toplanması](https://medium.com/@qemerahadova/i%CC%87nformation-gathering-becc32cad975) | Əhmədova Şəms, Əhədzadə Qəmər, Yolçuyeva Namidə | 2023-04-28 | Veb Təhlükəsizliyi |

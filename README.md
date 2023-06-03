@@ -26,3 +26,4 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [Nüfuzetmə Testinin Metodologiyası](https://medium.com/@rovsenmelikov233/penetration-testing-process-a0a658ed9f6c) | Zəhra Əsgərzadə, Rövşən Məlikov | 2024-04-29 | Veb Təhlükəsizliyi |
 | [Cross-Site Scripting(XSS)](https://medium.com/@xalilovarafiya/xss-cross-site-scripting-f965f9cd88cf) | Rəfiyyə Xəlilova, Alsu İsmayılzadə | 2024-04-30 | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
+| [SQL İnyeksiyası](https://medium.com/@aska0x00/sql-injection-n%C9%99dir-a871cd0c2ed0) | Asim Verdiyev, Coşqun Kərimli | 2023-04-29 | Veb Təhlükəsizliyi |

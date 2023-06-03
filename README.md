@@ -19,7 +19,7 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [İdentifikasiyası Boşluqları - II Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-57eb31fb828b) | Vəzifə Quliyeva | 2023-04-30 | Veb Təhlükəsizliyi |
 | [İdentifikasiyası Boşluqları - III Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-c69439be31ac) | Allahverdiyeva Aytən | 2024-05-01 | Veb Təhlükəsizliyi |
 | [LFI, RFI və Path Traversal Boşluqları](https://medium.com/@ilkinm2003/lfi-rfi-path-traversal-3c881b2da608) | Hüseyn Həsənov, İlkin Məmmədli | 2024-04-30 | Veb Təhlükəsizliyi |
-| [Insecure Direct Object Reference (IDOR)](https://medium.com/@shabnamaliyeva1234/access-control-vulnerabilities-idor-131b6b8ad4aa) | Rauf Məlikov, Şəbnəm Əliyeva | 2022-04-30 | Veb Təhlükəsizliyi |
+| [Girişə Nəzarət Zəiflikləri](https://medium.com/@shabnamaliyeva1234/access-control-vulnerabilities-idor-131b6b8ad4aa) | Rauf Məlikov, Şəbnəm Əliyeva | 2022-04-30 | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |

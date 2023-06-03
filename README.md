@@ -15,5 +15,11 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [HTTP and HTTPS Təhlükəsizlik Başlıqları](https://medium.com/@mehbube/http-security-headers-ed4ea660bc44) | Məhbubə Quliyeva, Leyla Hüseynli | 2023-04-30 | Veb Təhlükəsizliyi |
 | [XML External Entity (XXE) Hücumları](https://medium.com/@eli.shukurov.es/xxe-29d8e07259d9) | Ruhid Rəfiyev, Əli Şükürov | 2023-05-18 | Veb Təhlükəsizliyi |
 | [Cross-Site Request Forgery (CSRF)](https://medium.com/@rufetehmed21/cross-site-request-forgery-csrf-cd62b52287e0) | Əhmədov Rüfət, Əlizadə Natiq | 2023-05-10 | Veb Təhlükəsizliyi |
-| []() | | | |
-| []() | | | |
+| [İdentifikasiyası Boşluqları - I Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-98e49bd539fe) | Cavadova Nərgiz | 2023-04-30 | Veb Təhlükəsizliyi |
+| [İdentifikasiyası Boşluqları - II Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-57eb31fb828b) | Vəzifə Quliyeva | 2023-04-30 | Veb Təhlükəsizliyi |
+| [İdentifikasiyası Boşluqları - III Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-c69439be31ac) | Allahverdiyeva Aytən
+
+ | 2024-05-01 | Veb Təhlükəsizliyi |
+| []() | | | Veb Təhlükəsizliyi |
+| []() | | | Veb Təhlükəsizliyi |
+| []() | | | Veb Təhlükəsizliyi |

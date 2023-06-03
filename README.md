@@ -20,8 +20,8 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [İdentifikasiyası Boşluqları - III Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-c69439be31ac) | Allahverdiyeva Aytən | 2024-05-01 | Veb Təhlükəsizliyi |
 | [LFI, RFI və Path Traversal Boşluqları](https://medium.com/@ilkinm2003/lfi-rfi-path-traversal-3c881b2da608) | Hüseyn Həsənov, İlkin Məmmədli | 2024-04-30 | Veb Təhlükəsizliyi |
 | [Girişə Nəzarət Zəiflikləri](https://medium.com/@shabnamaliyeva1234/access-control-vulnerabilities-idor-131b6b8ad4aa) | Rauf Məlikov, Şəbnəm Əliyeva | 2022-04-30 | Veb Təhlükəsizliyi |
-| []() | | | Veb Təhlükəsizliyi |
-| []() | | | Veb Təhlükəsizliyi |
+| [UI Redressing və Clickjacking](https://medium.com/@cahangirasgarov2003/ui-redressing-58027140504f) | Cahangir Əsgərov | 2023-04-30 | Veb Təhlükəsizliyi |
+| [ƏS Kommand İnyeksiyası](https://medium.com/@aytennvrzva/operating-system-command-injection-ac32a6b521d6) | Aytən Novruzova | 2023-04-29 | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |

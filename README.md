@@ -24,5 +24,5 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [ƏS Kommand İnyeksiyası](https://medium.com/@aytennvrzva/operating-system-command-injection-ac32a6b521d6) | Aytən Novruzova | 2023-04-29 | Veb Təhlükəsizliyi |
 | [Fayl Yükləmə Boşluqları](https://medium.com/@alivaliyv/file-upload-vulnerabilities-n%C3%B6vl%C9%99ri-m%C3%BC%C9%99yy%C9%99nl%C9%99%C5%9Fdirilm%C9%99si-texnikalar-v%C9%99-qar%C5%9F%C4%B1s%C4%B1n%C4%B1n-al-2809a0ce520c) | Əli Vəliyev | 2023-04-30 | Veb Təhlükəsizliyi |
 | [Nüfuzetmə Testinin Metodologiyası](https://medium.com/@rovsenmelikov233/penetration-testing-process-a0a658ed9f6c) | Zəhra Əsgərzadə, Rövşən Məlikov | 2024-04-29 | Veb Təhlükəsizliyi |
-| []() | | | Veb Təhlükəsizliyi |
+| [Cross-Site Scripting(XSS)](https://medium.com/@xalilovarafiya/xss-cross-site-scripting-f965f9cd88cf) | Rəfiyyə Xəlilova, Alsu İsmayılzadə | 2024-04-30 | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |

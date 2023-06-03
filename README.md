@@ -22,7 +22,7 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [Girişə Nəzarət Zəiflikləri](https://medium.com/@shabnamaliyeva1234/access-control-vulnerabilities-idor-131b6b8ad4aa) | Rauf Məlikov, Şəbnəm Əliyeva | 2022-04-30 | Veb Təhlükəsizliyi |
 | [UI Redressing və Clickjacking](https://medium.com/@cahangirasgarov2003/ui-redressing-58027140504f) | Cahangir Əsgərov | 2023-04-30 | Veb Təhlükəsizliyi |
 | [ƏS Kommand İnyeksiyası](https://medium.com/@aytennvrzva/operating-system-command-injection-ac32a6b521d6) | Aytən Novruzova | 2023-04-29 | Veb Təhlükəsizliyi |
-| []() | | | Veb Təhlükəsizliyi |
+| [Fayl Yükləmə Boşluqları](https://medium.com/@alivaliyv/file-upload-vulnerabilities-n%C3%B6vl%C9%99ri-m%C3%BC%C9%99yy%C9%99nl%C9%99%C5%9Fdirilm%C9%99si-texnikalar-v%C9%99-qar%C5%9F%C4%B1s%C4%B1n%C4%B1n-al-2809a0ce520c) | Əli Vəliyev | 2023-04-30 | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |

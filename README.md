@@ -17,9 +17,7 @@ Bu sahədə həvəskarlar, tələbələr, və digər öyrənmək istəyən şəx
 | [Cross-Site Request Forgery (CSRF)](https://medium.com/@rufetehmed21/cross-site-request-forgery-csrf-cd62b52287e0) | Əhmədov Rüfət, Əlizadə Natiq | 2023-05-10 | Veb Təhlükəsizliyi |
 | [İdentifikasiyası Boşluqları - I Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-98e49bd539fe) | Cavadova Nərgiz | 2023-04-30 | Veb Təhlükəsizliyi |
 | [İdentifikasiyası Boşluqları - II Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-57eb31fb828b) | Vəzifə Quliyeva | 2023-04-30 | Veb Təhlükəsizliyi |
-| [İdentifikasiyası Boşluqları - III Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-c69439be31ac) | Allahverdiyeva Aytən
-
- | 2024-05-01 | Veb Təhlükəsizliyi |
+| [İdentifikasiyası Boşluqları - III Hissə](https://medium.com/@vanvan072113/authentication-vulnerabilities-c69439be31ac) | Allahverdiyeva Aytən | 2024-05-01 | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
 | []() | | | Veb Təhlükəsizliyi |
